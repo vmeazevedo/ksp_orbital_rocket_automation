@@ -71,7 +71,7 @@ time.sleep(1)
 vessel.control.activate_next_stage()
 vessel.auto_pilot.disengage()
 
-# Espere até sair da atmosfera
+# Esperar até sair da atmosfera
 print('Indo para fora da atmosfera')
 while altitude() < 70000:
     pass
@@ -85,7 +85,7 @@ while altitude() < 100000:
 
 # Ativa o segundo estágio
 # Queima de circularização de órbita
-print('Altitude now: %.1f' % altitude())
+print('Altitude agora: %.1f' % altitude())
 vessel.control.throttle = 1
 vessel.control.activate_next_stage()
 time.sleep(8)
