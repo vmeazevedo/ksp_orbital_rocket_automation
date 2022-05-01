@@ -1,3 +1,6 @@
+![KerbalSpaceProgramFullRedLogo](https://user-images.githubusercontent.com/40063504/166163145-9cad7d6c-67e8-4d3d-9d01-02c7bf1d7c11.png)
+
+
 # ksp_orbital_rocket_automation
 Script python para automatizar todo o procedimento de lançamento de um foguete incluindo, entrar em orbita, realizar a reentrada e pousar a capsula em segurança no Kerbal Space Program.
 
@@ -23,3 +26,7 @@ pip install -r requirements.txt
 4. Copie os arquivos de dentro da pasta ``GameData`` e cole dentro da pasta ``GameData`` de seu jogo KSP.
 5. Entre no jogo com a plataforma ``SANDBOX`` e crie um foguete de 2 estágios.
 6. Execute o arquivo python ``02_there_n_back_again.py``.
+
+## Teste do script
+
+https://twitter.com/vmeazevedo/status/1520834364065685505
