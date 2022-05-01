@@ -21,12 +21,12 @@ pip install -r requirements.txt
    ``
    git clone https://github.com/vmeazevedo/ksp_orbital_rocket_automation
    ``
-2. Certifique-se que sua versão do KSP seja superior a versão 1.4.4
+2. Certifique-se que sua versão do KSP seja superior a v1.4.4 (testado na versão v1.5.1)
 3. Realize o download da atualização ``kRPC-0.4.8`` que se encontra nesse repositório que permite se conectar ao jogo via python.
 4. Copie os arquivos de dentro da pasta ``GameData`` e cole dentro da pasta ``GameData`` de seu jogo KSP.
 5. Entre no jogo com a plataforma ``SANDBOX`` e crie um foguete de 2 estágios.
 6. Execute o arquivo python ``02_there_n_back_again.py``.
 
-## Teste do script
+## Teste do script - KSP v1.5.1
 
 https://twitter.com/vmeazevedo/status/1520834364065685505
