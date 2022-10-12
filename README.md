@@ -30,3 +30,7 @@ pip install -r requirements.txt
 ## Teste do script - KSP v1.5.1
 
 https://twitter.com/vmeazevedo/status/1520834364065685505
+
+
+https://user-images.githubusercontent.com/40063504/195221448-d904e026-27d4-4d03-98a5-1b27c718ec80.mp4
+
